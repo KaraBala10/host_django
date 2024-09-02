@@ -1,2 +1,6 @@
 django
 gunicorn
+dj-database-url
+psycopg2-binary
+whitenoise==6.7.0
+uvicorn
