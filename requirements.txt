@@ -1,4 +1,4 @@
 django
 whitenoise
 gunicorn
-corsheaders
+django-cors-headers
